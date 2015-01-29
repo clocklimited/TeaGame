@@ -3,8 +3,10 @@
 ## Object of the game
 Not to be the player with the lowest card (ace is high) or to be the player holding a red Queen.
 
-## Dealer
-The dealer can be 1 or more players. They are the loser of any previous games. and can be carried across any unparticipated games (absent or 'not up for it!' (named the Loomis rule!))
+## Dealer & Exemption
+A player becomes exempt when they lose a game. They are able to use this exemption to become the Dealer on a subsequent game. Exemptions can't be carried over a weekend, unless the player who is exempt is able to find 3 other players who can confirm their exempt status.
+
+The Dealer of a game can be one or many players who are exempt. If there are multiple dealers, then the deck is split between them and non-exempt players take a card from each dealer.
 
 ## Set Up
 The loser of any previous games.. "The tea making loser" (dealer) shuffles and fans the cards out to be chosen.
