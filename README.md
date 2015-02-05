@@ -41,13 +41,13 @@ In what turns out to be, the unlikely event of a draw. the two (or more) players
 Fair play must ensue, and underhand play will result in a forfeit decided by the majority group.
 
 ## The Pack
-As long as agreed, any pack of cards (small or large) may be used, if accepted by the 'Official Players'.
+As long as agreed, any pack of cards (small or large) may be used.
 
 ## Guest Players
 Players not in the usual crowd (above) can play as along as agreed by the above, and provided they abide by the rules.
 
 ## Evolving Game
-New rules can be implemented but must be agreed by all official players (including any guest players - if affected)
+New rules can be implemented but must be agreed by at least 3 players, by the means of a +1 on a pull request.
 
 ## New Rules
 When a player has lost and must make the drinks, he/she must write their name on the whiteboard to validate the exemption. If their name is not written by the time the next game is raised, then he/she forfeits their exemption, and exemption is void (no-one is exempt (except if dual exemption applies, the player's middle name contains a silent "h", or the day of the previous game fell on Norwegian Independence Day.))
