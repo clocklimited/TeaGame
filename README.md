@@ -1,7 +1,7 @@
 # TeaGame
 
 ## Object of the game
-Not to be the player with the lowest card (ace is high) or to be the player holding a red Queen.
+To decide who makes the tea.
 
 ## Dealer & Exemption
 A player becomes exempt when they lose a game. They are able to use this exemption to become the Dealer on a subsequent game. Exemptions can't be carried over a weekend, unless the player who is exempt is able to find 3 other players who can confirm their exempt status.
