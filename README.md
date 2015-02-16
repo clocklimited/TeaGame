@@ -46,6 +46,9 @@ As long as agreed, any pack of cards (small or large) may be used, if accepted b
 ## Guest Players
 Players not in the usual crowd (above) can play as along as agreed by the above, and provided they abide by the rules.
 
+## Tea Production Time Limit
+Teas must be made within 15 minutes after the tea game has been played. If you will not have time to make teas after a game it is better not to play.
+
 ## Incorrect Tea Orders
 If an incorrect tea order has been delivered it must be replaced by the correct tea order as soon as the error is reported to the tea maker. It is the responisibility of the tea maker to keep track of all tea orders.
 
