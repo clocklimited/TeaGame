@@ -55,8 +55,5 @@ New rules can be implemented but must be agreed by all official players (includi
 ## New Rules
 When a player has lost and must make the drinks, he/she must write their name on the whiteboard to validate the exemption. If their name is not written by the time the next game is raised, then he/she forfeits their exemption, and exemption is void (no-one is exempt (except if dual exemption applies, the player's middle name contains a silent "h", or the day of the previous game fell on Norwegian Independence Day.))
 
-## Highest Losing Card
-The highest losing card to date, was the Queen-Spades picked by Adam on 4th Sept 2007 (against 3 Aces and a Joker)
-
 ## Most Jokers Drawn
 The highest number of Jokers drawn in one day to date, 5 Jokers pulled on 4th Sept 2007
