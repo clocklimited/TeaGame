@@ -34,6 +34,10 @@ The blank card reverses the results of a normal tea game, making the player with
 #### Joker
 The player is exempt for the rest of the day, unless they draw a Joker again, causing automatic loss. If a blank card is pulled in the same game that a Joker is pulled, the Joker still exempts the player and they do not lose the game.
 
+If a player is joker exempt and they pull a blank joker in another game that
+day, then that player is no longer exempt for the rest of the day, but does not
+lose that game.
+
 ## Draw
 In what turns out to be, the unlikely event of a draw. the two (or more) players must play a face-off. All cards are returned to the dealer, who shuffles the pack and again fans the cards for the 2 (or more) tied players. They compete (lowest card again loses), this is repeated until a loser is decided.
 
