@@ -51,7 +51,7 @@ As long as agreed, any pack of cards (small or large) may be used, if accepted b
 Players not in the usual crowd (above) can play as along as agreed by the above, and provided they abide by the rules.
 
 ## Incorrect Tea Orders
-If an incorrect tea order has been delivered it must be replaced by the correct tea order as soon as the error is reported to the tea maker. It is the responisibility of the tea maker to keep track of all tea orders.
+If an incorrect tea order has been delivered it must be replaced by the correct tea order as soon as the error is reported to the tea maker. It is the responsibility of the tea maker to keep track of all tea orders.
 
 ## Evolving Game
 New rules can be implemented but must be agreed by all official players (including any guest players - if affected)
