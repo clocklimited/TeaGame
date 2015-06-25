@@ -61,7 +61,8 @@ Winning players can request a clean mug or offer the loser the option to reuse t
 New rules can be implemented but must be agreed by at least 3 players, by the means of a +1 on a pull request.
 
 ## New Rules
-When a player has lost and must make the drinks, he/she must write their name on the whiteboard to validate the exemption. If their name is not written by the time the next game is raised, then he/she forfeits their exemption, and exemption is void (no-one is exempt (except if dual exemption applies, the player's middle name contains a silent "h", or the day of the previous game fell on Norwegian Independence Day.))
+When a player has lost and must make the drinks, in order to validate their exemption for the next game they wish to play, they must rely on three other players to remember that they lost. Over long time periods such as at the end of the day or Christmas - it is wise to detail the exemption somewhere! If at least three players cannot verify the player losing, then he/she forfeits their exemption, and exemption is void.
+It is also noted that attempting to actively "skank" (refuse) a legitimate exemption claim is not wise as it has previously resulted in active tea game players retiring from the game early in their career. 
 
 ## Most Jokers Drawn
 The highest number of Jokers drawn in one day to date, 5 Jokers pulled on 4th Sept 2007
