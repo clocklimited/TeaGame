@@ -53,6 +53,10 @@ Players not in the usual crowd (above) can play as along as agreed by the above,
 ## Incorrect Tea Orders
 If an incorrect tea order has been delivered it must be replaced by the correct tea order as soon as the error is reported to the tea maker. It is the responsibility of the tea maker to keep track of all tea orders.
 
+## 'Bring out your dead' Rule
+After the game has been played, the losing player must collect the other players old cups and mugs. 
+Winning players can request a clean mug or offer the loser the option to reuse their old mug. 
+
 ## Evolving Game
 New rules can be implemented but must be agreed by at least 3 players, by the means of a +1 on a pull request.
 
