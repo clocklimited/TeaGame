@@ -53,6 +53,9 @@ Players not in the usual crowd (above) can play as along as agreed by the above,
 ## Incorrect Tea Orders
 If an incorrect tea order has been delivered it must be replaced by the correct tea order as soon as the error is reported to the tea maker. It is the responsibility of the tea maker to keep track of all tea orders.
 
+## Tea Delivery Time
+If a player knows that they can't start making the tea within 10 minutes of the game ending, then they should announce this before play begins. This gives other players the opportunity to withdraw from the game if wanted. If a player does not announce this, and it is evident that they knew of their time delay before the game began, then the player forfeits their exemption.
+
 ## 'Bring out your dead' Rule
 After the game has been played, the losing player must collect the other players old cups and mugs. 
 Winning players can request a clean mug or offer the loser the option to reuse their old mug. 
