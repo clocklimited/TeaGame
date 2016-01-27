@@ -47,6 +47,13 @@ Fair play must ensue, and underhand play will result in a forfeit decided by the
 ## The Pack
 As long as agreed, any pack of cards (small or large) may be used.
 
+## The Drinks
+Valid orders include:
+ * Any pre-bagged tea, inclduing herbal teas
+ * Instant coffee
+
+Other types of drink (nespresso, hot chocolate, etc.) can be made at the loser's discretion and are optional.
+
 ## Guest Players
 Players not in the usual crowd (above) can play as along as agreed by the above, and provided they abide by the rules.
 
