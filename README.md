@@ -49,7 +49,7 @@ As long as agreed, any pack of cards (small or large) may be used.
 
 ## The Drinks
 Valid orders include:
- * Any pre-bagged tea, inclduing herbal teas
+ * Any pre-bagged tea, including herbal teas
  * Instant coffee
 
 Other types of drink (nespresso, hot chocolate, etc.) can be made at the loser's discretion and are optional.
