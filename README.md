@@ -53,7 +53,7 @@ Valid orders include:
  * Instant coffee
  * Hot water
 
-Other types of drink (nespresso, hot chocolate, etc.) can be made at the loser's discretion and are optional.
+  Other types of drink (nespresso, hot chocolate, etc.) can be made at the loser’s discretion and are optional.
 
 ## Guest Players
 Players not in the usual crowd (above) can play as along as agreed by the above, and provided they abide by the rules.
