@@ -41,7 +41,7 @@ lose that game.
 ## Other Rules
 
 ### Odd One Out
-If everyone pulls the same number except for a single player, that play makes the tea.
+If everyone pulls the same number except for a single player, that player makes the tea.
 
 ## Draw
 In what turns out to be, the unlikely event of a draw. the two (or more) players must play a face-off. All cards are returned to the dealer, who shuffles the pack and again fans the cards for the 2 (or more) tied players. They compete (lowest card again loses), this is repeated until a loser is decided.
