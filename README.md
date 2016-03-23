@@ -4,7 +4,7 @@
 To decide who makes the tea.
 
 ## Prerequisite
-There must be a minimum of 3 players for a tea game to be official.
+There must be a minimum of 3 players for a tea game to be official. Once the average number of players reaches 5, the requirement will return to 4.
 
 ## Dealer & Exemption
 A player becomes exempt when they lose a game. They are able to use this exemption to become the Dealer on a subsequent game. Exemptions can't be carried over a weekend, unless the player who is exempt is able to find 3 other players who can confirm their exempt status.
