@@ -44,7 +44,7 @@ lose that game.
 ## Draw
 In what turns out to be, the unlikely event of a draw. the two (or more) players must play a face-off. All cards are returned to the dealer, who shuffles the pack and again fans the cards for the 2 (or more) tied players. They compete (lowest card again loses), this is repeated until a loser is decided.
 
-##Biscuit Deathmatch
+## Biscuit Deathmatch
 If the total value of the biscuit fund reaches £2, all regular players present in the office must take part in a biscuit deathmatch. All players pull a card, the player with the highest card is out and the drawn cards are set aside. Players continue to draw cards until 2 players are left. The player who pulls the lowest card in the final round must take £1 and buy biscuits.
 
 ## Fair Play
