@@ -49,7 +49,7 @@ lose that game.
 ### Odd One Out
 If everyone pulls the same number except for a single player, that player makes the tea.
 
-#### Friday 17th June
+#### Friday 17th June 2016
 ![Odd One Out](odd-one-out.jpg)
 
 ### Multiple of same value cards
