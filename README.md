@@ -50,7 +50,7 @@ lose that game.
 If everyone pulls the same number except for a single player, that player makes the tea.
 
 #### Friday 17th June 2016
-![Odd One Out](odd-one-out.jpg)
+![Odd One Out](https://s31.postimg.org/6qcphii17/odd_one_out.jpg)
 
 ### Multiple of same value cards
 When in a multiple exemption or redraw, having multiple of the same value card is always considered the highest number. Therefore, a player would require 3 of the same value card to beat 2 of the same valued card. Jokers still trump this rule.
