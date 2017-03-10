@@ -86,7 +86,7 @@ After the game has been played, the losing player must collect the other players
 Winning players can request a clean mug or offer the loser the option to reuse their old mug.
 
 ## Evolving Game
-New rules can be implemented but must be agreed by at least 3 players, by the means of a +1 on a pull request.
+New rules can be implemented but must be agreed by a majority of at least 3 players, by the means of a +1/-1 on a pull request. The person suggesting the rule change cannot vote on the ruling.
 
 ## New Rules
 When a player has lost and must make the drinks, in order to validate their exemption for the next game they wish to play, they must rely on three other players to remember that they lost. Over long time periods such as at the end of the day or Christmas - it is wise to detail the exemption somewhere! If at least three players cannot verify the player losing, then he/she forfeits their exemption, and exemption is void.
