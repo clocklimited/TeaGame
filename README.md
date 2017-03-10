@@ -11,7 +11,7 @@ A player becomes exempt when they lose a game. They are able to use this exempti
 
 The Dealer of a game can be one or many players who are exempt. If there are multiple dealers, then the deck is split between them and non-exempt players take a card from each dealer.
 
-All exemptions are cleared on the Monday morning of every week.
+All exemptions are cleared on the first Monday morning of every month.
 
 ## Set Up
 The loser of any previous games.. "The tea making loser" (dealer) shuffles and fans the cards out to be chosen.
