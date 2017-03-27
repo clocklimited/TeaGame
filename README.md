@@ -50,7 +50,7 @@ lose that game.
 If everyone pulls the same number except for a single player, that player makes the tea. (Minimum 4 non-exempt players)
 
 ### Multiple of same value cards
-When in a multiple exemption or redraw, having multiple of the same value card is always considered the highest number. Therefore, a player would require 3 of the same value card to beat 2 of the same valued card. Jokers still trump this rule.
+When in a multiple exemption or redraw (or both), having multiple of the same value card is always considered the highest number. Therefore, a player would require 3 of the same value card to beat 2 of the same valued card. Jokers still trump this rule.
 
 ## Draw
 In what turns out to be, the unlikely event of a draw. the two (or more) players must play a face-off. All cards are returned to the dealer, who shuffles the pack and again fans the cards for the 2 (or more) tied players. They compete (lowest card again loses), this is repeated until a loser is decided.
