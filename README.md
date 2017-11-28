@@ -82,7 +82,7 @@ If an incorrect tea order has been delivered it must be replaced by the correct 
 If a player knows that they can't start making the tea within 10 minutes of the game ending, then they should announce this before play begins. This gives other players the opportunity to withdraw from the game if wanted. If a player does not announce this, and it is evident that they knew of their time delay before the game began, then the player forfeits their exemption.
 
 ## Happy Birthday 🎂
-Players are exempt on their birthday and Clock birthday (the day they joined the tea game). 
+Players are exempt on their birthday and Clock birthday (the day they joined the tea game, *T&Cs apply). 
 
 ## 'Bring out your dead' Rule
 After the game has been played, the losing player must collect the other players old cups and mugs.
@@ -97,3 +97,8 @@ It is also noted that attempting to actively "skank" (refuse) a legitimate exemp
 
 ## Most Jokers Drawn
 The highest number of Jokers drawn in one day to date, 5 Jokers pulled on 4th Sept 2007
+
+## * Birthday and Clock Birthday Exemption Terms and Conditions
+- If your actual or Clock Birthday occurs on a weekend, you may use the exemption the next time you are in the office.
+- Should you forget that it is your birthday and you have been in the office, you will lose your exemption.
+- It is your responsibility to set up the reminder within Slack.
