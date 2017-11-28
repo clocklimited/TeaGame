@@ -15,15 +15,7 @@ The Dealer of a game can be one or many players who are exempt. If there are mul
 The loser of any previous games.. "The tea making loser" (dealer) shuffles and fans the cards out to be chosen.
 
 ## Let's Play
-Each player picks a card.
-
-The person who draws the lowest card is the loser, and must make the tea/coffee for every player.
-
-They must ask all players their preferred drink out of Tea or Coffee, then take all cups down to the kitchen.
-
-Instructions on players preferences can be found on the kitchen board.
-
-Although they are the loser they have the added benefit of being exempt from making the tea in the next game, as they become the dealer.
+Each player picks a card. The person who draws the lowest card is the loser, and must make the tea/coffee for every player. They take orders for all participating players, then take all cups down to the kitchen.
 
 ## Functions of the Action Cards
 If a player pulls the 'Action Card':
@@ -34,15 +26,13 @@ They must contribute 10p to the biscuit fund.
 #### Queen of Hearts
 They must collect monies from players, or use the biscuit fund, and buy the biscuits (within 48 hours).
 
-#### Blank Card
-The blank card reverses the results of a normal tea game, making the player with the highest card lose.
+#### Black Joker
+The black joker reverses the results of a normal tea game, making the player with the highest card lose.
 
 #### Joker
-The player is exempt for the rest of the day, unless they draw a Joker again, causing automatic loss. If a blank card is pulled in the same game that a Joker is pulled, the Joker still exempts the player and they do not lose the game.
+The player is exempt for the rest of the day, unless they draw a Joker again, causing automatic loss. If a black joker is pulled in the same game that a Joker is pulled, the Joker still exempts the player and they do not lose the game.
 
-If a player is joker exempt and they pull a blank joker in another game that
-day, then that player is no longer exempt for the rest of the day, but does not
-lose that game.
+If a player is joker exempt and they pull a black joker in another game that day, then that player is no longer exempt for the rest of the day, but does not lose that game.
 
 ## Other Rules
 
