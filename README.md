@@ -15,15 +15,7 @@ The Dealer of a game can be one or many players who are exempt. If there are mul
 The loser of any previous games.. "The tea making loser" (dealer) shuffles and fans the cards out to be chosen.
 
 ## Let's Play
-Each player picks a card.
-
-The person who draws the lowest card is the loser, and must make the tea/coffee for every player.
-
-They must ask all players their preferred drink out of Tea or Coffee, then take all cups down to the kitchen.
-
-Instructions on players preferences can be found on the kitchen board.
-
-Although they are the loser they have the added benefit of being exempt from making the tea in the next game, as they become the dealer.
+Each player picks a card. The person who draws the lowest card is the loser, and must make the tea/coffee for every player. They take orders for all participating players, then take all cups down to the kitchen.
 
 ## Functions of the Action Cards
 If a player pulls the 'Action Card':
@@ -34,32 +26,21 @@ They must contribute 10p to the biscuit fund.
 #### Queen of Hearts
 They must collect monies from players, or use the biscuit fund, and buy the biscuits (within 48 hours).
 
-#### Blank Card
-The blank card reverses the results of a normal tea game, making the player with the highest card lose.
+#### Black Joker
+The black joker reverses the results of a normal tea game, making the player with the highest card lose.
 
 #### Joker
-The player is exempt for the rest of the day, unless they draw a Joker again, causing automatic loss. If a blank card is pulled in the same game that a Joker is pulled, the Joker still exempts the player and they do not lose the game.
+The player is exempt for the rest of the day, unless they draw a Joker again, causing automatic loss. If a black joker is pulled in the same game that a Joker is pulled, the Joker still exempts the player and they do not lose the game.
 
-If a player is joker exempt and they pull a blank joker in another game that
-day, then that player is no longer exempt for the rest of the day, but does not
-lose that game.
+If a player is joker exempt and they pull a black joker in another game that day, then that player is no longer exempt for the rest of the day, but does not lose that game.
 
 ## Other Rules
-
-### Odd One Out
-If everyone pulls the same number except for a single player, that player makes the tea. (Minimum 4 non-exempt players)
 
 ### Multiple of same value cards
 When in a multiple exemption or redraw (or both), having multiple of the same value card is always considered the highest number. Therefore, a player would require 3 of the same value card to beat 2 of the same valued card. Jokers still trump this rule.
 
 ## Draw
 In what turns out to be, the unlikely event of a draw. the two (or more) players must play a face-off. All cards are returned to the dealer, who shuffles the pack and again fans the cards for the 2 (or more) tied players. They compete (lowest card again loses), this is repeated until a loser is decided.
-
-## Biscuit Deathmatch
-If the total value of the biscuit fund reaches £2, all regular players present in the office must take part in a biscuit deathmatch. All players pull a card, the player with the highest card is out and the drawn cards are set aside. Players continue to draw cards until 2 players are left. The player who pulls the lowest card in the final round must take £1 and buy biscuits.
-
-## Fair Play
-Fair play must ensue, and underhand play will result in a forfeit decided by the majority group.
 
 ## The Pack
 As long as agreed, any pack of cards (small or large) may be used.
@@ -72,17 +53,11 @@ Valid orders include:
 
   Other types of drink (nespresso, hot chocolate, etc.) can be made at the loser’s discretion and are optional.
 
-## Guest Players
-Players not in the usual crowd (above) can play as along as agreed by the above, and provided they abide by the rules.
-
 ## Incorrect Tea Orders
 If an incorrect tea order has been delivered it must be replaced by the correct tea order as soon as the error is reported to the tea maker. It is the responsibility of the tea maker to keep track of all tea orders.
 
 ## Tea Delivery Time
 If a player knows that they can't start making the tea within 10 minutes of the game ending, then they should announce this before play begins. This gives other players the opportunity to withdraw from the game if wanted. If a player does not announce this, and it is evident that they knew of their time delay before the game began, then the player forfeits their exemption.
-
-## Happy Birthday 🎂
-Players are exempt on their birthday and Clock birthday (the day they joined the tea game). 
 
 ## 'Bring out your dead' Rule
 After the game has been played, the losing player must collect the other players old cups and mugs.
