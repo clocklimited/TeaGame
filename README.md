@@ -43,7 +43,7 @@ If everyone pulls the same number except for a single player, that player makes 
 When in a multiple exemption or redraw (or both), having multiple of the same value card is always considered the highest number. Therefore, a player would require 3 of the same value card to beat 2 of the same valued card. Jokers still trump this rule and reverse jokers make these the worst hands.
 
 ## Draw
-If two or more players all have the slowest scoring hand, they must draw the same number of cards from the deck again. Any cards drawn in the first round have no bearing on these newly drawn cards. This is repeated until a loser is found.
+If two or more players all have the lowest scoring hand, they must draw the same number of cards from the deck again. Any cards drawn in the first round have no bearing on these newly drawn cards. This is repeated until a loser is found.
 
 ## Biscuit Deathmatch
 If the total value of the biscuit fund reaches £2, all regular players present in the office must take part in a biscuit deathmatch. All players pull a card, the player with the highest card is out and the drawn cards are set aside. Players continue to draw cards until 2 players are left. The player who pulls the lowest card in the final round must take £1 and buy biscuits.
