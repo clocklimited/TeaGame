@@ -75,6 +75,15 @@ Players are exempt on their birthday and Clock birthday.
 After the game has been played, the losing player must collect the other players old cups and mugs.
 Winning players can request a clean mug or offer the loser the option to reuse their old mug.
 
+## Multiple drink orders
+If a player wants to have more than one drink delivered in the same tea game they must draw an equal number of cards to the number of drinks that they want
+
+### Conditions
+Multiple drink orders are subject to the following conditions:
+ * A player must declare the number of drinks they want BEFORE drawing any cards
+ * Only the lowest value card drawn will be considered, any jokers drawn will be nullified
+ * Exempt players can draw one less card than the number of drinks they want
+
 ## Evolving Game
 New rules can be implemented but must be agreed by a majority of at least 3 players, by the means of a +1/-1 on a pull request. The person suggesting the rule change cannot vote on the ruling. Pull requests must be open for a minimum of a week.
 
