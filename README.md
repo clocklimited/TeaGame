@@ -26,13 +26,13 @@ They must contribute 10p to the biscuit fund.
 #### Queen of Hearts
 They must collect monies from players, or use the biscuit fund, and buy the biscuits (within 48 hours).
 
-#### Black Joker
-The black joker reverses the results of a normal tea game, making the player with the highest card lose.
+#### Reverse Joker
+The reverse joker reverses the results of a normal tea game, making the player with the highest card lose.
 
 #### Joker
-The player is exempt for the rest of the day, unless they draw a Joker again, causing automatic loss. If a black joker is pulled in the same game that a Joker is pulled, the Joker still exempts the player and they do not lose the game.
+The player is exempt for the rest of the day, unless they draw a Joker again, causing automatic loss. If the reverse joker is pulled in the same game that a Joker is pulled, the Joker still exempts the player and they do not lose the game.
 
-If a player is joker exempt and they pull a black joker in another game that day, then that player is no longer exempt for the rest of the day, but does not lose that game.
+If a player is joker exempt and they pull the reverse joker in another game that day, then that player is no longer exempt for the rest of the day, but does not lose that game.
 
 ## Other Rules
 
