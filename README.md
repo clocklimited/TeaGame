@@ -11,6 +11,8 @@ A player becomes exempt when they lose a game. They are able to use this exempti
 
 The Dealer of a game can be one or many players who are exempt. If there are multiple dealers, then the deck is split between them and non-exempt players take a card from each dealer.
 
+Exemptions expire after 3 months.
+
 ## Set Up
 The loser of any previous games.. "The tea making loser" (dealer) shuffles and deals the cards out to be chosen.
 
